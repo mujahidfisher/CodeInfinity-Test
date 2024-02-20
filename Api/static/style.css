@@ -7,7 +7,8 @@
 }
 
 body {
+  margin-top: 10rem;
+  font-size: x-large;
   text-align: center;
-  background-color: lightgreen;
-  text-shadow: 10px 10px 10px;
+  background-color: rgb(183, 140, 140);
 }
