@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&family=Roboto+Mono&family=Ubuntu&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
