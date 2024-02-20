@@ -1,9 +1,10 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "CodeInfinityTest",
+  "description": "CodeInfinityTestBackend",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
